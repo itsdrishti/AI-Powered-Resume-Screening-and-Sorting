@@ -143,4 +143,4 @@ Returns:
 ## 👨‍💻 Author
 
 **Drishti Panthari**
-Computer Science Engineer
+| Computer Science Engineer
