@@ -19,13 +19,6 @@
   A simple and responsive front-end interface for uploading resumes, viewing results, and downloading summaries.
 
 ---
-
-##  Demo
-
-Include screenshots here (e.g., `screenshots/`, or display via GitHub) to showcase the upload flow, scoring interface, or leaderboard.
-
----
-
 ##  Technologies
 
 - **Backend:** Python (mention any frameworks—e.g., Flask or Streamlit)
